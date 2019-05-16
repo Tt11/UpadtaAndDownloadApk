@@ -1,0 +1,17 @@
+{
+  "outputType": {
+    "type": "APK"
+  },
+  "apkInfo": {
+    "type": "MAIN",
+    "splits": [],
+    "versionCode": 2,
+    "versionName": "2.0",
+    "enabled": true,
+    "outputFile": "app-debug.apk",
+    "apkUrl":"http://192.168.0.137:8080/NewApk/app-debug.apk"
+
+  },
+  "path": "app-debug.apk",
+  "properties": {}
+}
